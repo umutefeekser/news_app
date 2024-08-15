@@ -2,4 +2,4 @@
 
 This is my first mobile app i did with React Native.
 
-Bu benim React Native ile yaptığım ilk mobil uygulamam.
+Bu benim React Native ile yaptığım ilk mobil uygulama.
